@@ -1,0 +1,1 @@
+(()=>{console.log("hello world");var e=document.createElement("h1");e.id="title",e.innerText="Hello World"})();
